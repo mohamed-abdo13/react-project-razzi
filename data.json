@@ -1,0 +1,328 @@
+{
+    "limitedSec" : [
+        {
+            "id": 1,
+            "image": "images/home9-product-1.jpg",
+            "title": "cadeira madeira",
+            "oldPrice": "$ 101.92",
+            "newPrice": "$ 73.85"
+        },
+        {
+            "id": 2,
+            "image": "images/home9-product-2.jpg",
+            "title": "divina sofa ottoman",
+            "oldPrice": "$ 81.92",
+            "newPrice": "$ 53.85"
+        },
+        {
+            "id": 3,
+            "image": "images/home9-product-3.jpg",
+            "title": "gubi ronde pendant",
+            "oldPrice": "$ 56.92",
+            "newPrice": "$ 32.85"
+        },
+        {
+            "id": 4,
+            "image": "images/home9-product-4.jpg",
+            "title": "hanging lamp red",
+            "oldPrice": "$ 124.92",
+            "newPrice": "$ 14.85"
+        }
+    ],
+    "BeastSellers":[
+        {
+            "id": 1 ,
+            "image":"images/product/f711.jpg",
+            "hoverImage": "images/product/f713.jpg",
+            "title": "Vasagle Comfortable Sofa",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 2 ,
+            "image":"images/product/f210.jpg",
+            "hoverImage": "images/product/f212.jpg",
+            "title": "Comfortable Sofa",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 3 ,
+            "image":"images/product/f310.jpg",
+            "hoverImage": "images/product/f311.jpg",
+            "title": "Vasagle Comfortable",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 4 ,
+            "image":"images/product/f410.jpg",
+            "hoverImage": "images/product/f411.jpg",
+            "title": "Vasagle Sofa",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 5 ,
+            "image":"images/product/f510.jpg",
+            "hoverImage": "images/product/f514.jpg",
+            "title": "Vasagle Comfortable Sofa",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 6 ,
+            "image":"images/product/f610.jpg",
+            "hoverImage": "images/product/f611.jpg",
+            "title": "Vasagle Sofa",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 7 ,
+            "image":"images/product/f110.jpg",
+            "hoverImage": "images/product/f111.jpg",
+            "title": "Vasagle Comfortable",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 8 ,
+            "image":"images/product/f810.jpg",
+            "hoverImage": "images/product/f811.jpg",
+            "title": "Comfortable Sofa",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        }
+    ],
+    "byRoomData" : [
+        {
+            "id": 1,
+            "image": "images/home9-imgbox-1.jpg",
+            "title": "living room",
+            "links": {
+                "link_1": "sectionals",
+                "link_2": "sofas",
+                "link_3": "arm chairs",
+                "link_4": "coffee tables",
+                "link_5": "tv stands"
+            }
+        },
+        {
+            "id": 2,
+            "image": "images/home9-imgbox-2.jpg",
+            "title": "kitchen",
+            "links": {
+                "link_1": "kitchen cabinets",
+                "link_2": "Dining Tables",
+                "link_3": "Dining Chairs",
+                "link_4": "Kitchen Islansd",
+                "link_5": "Bar Tables & Sets"
+            }
+        },
+        {
+            "id": 3,
+            "image": "images/home9-imgbox-3.jpg",
+            "title": "bedroom",
+            "links": {
+                "link_1": "Beds",
+                "link_2": "Dressers & Chests",
+                "link_3": "Bedroom Storage",
+                "link_4": "Nightstands ",
+                "link_5": "Bedroom Sets "
+            }
+        },
+        {
+            "id": 4,
+            "image": "images/home9-imgbox-4.jpg",
+            "title": "home office",
+            "links": {
+                "link_1": "Office Desks",
+                "link_2": "Desk Chairs",
+                "link_3": "Office Sets",
+                "link_4": "Drawer Units",
+                "link_5": "Bookcases"
+            }
+        }
+    ],
+    "shopProducts":[
+        {
+            "id": 9 ,
+            "image":"images/product/f910.jpg",
+            "hoverImage": "images/product/f914.jpg",
+            "title": "Marlon Dining",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 14 ,
+            "image":"images/product/f1611.jpg",
+            "hoverImage": "images/product/f1612.jpg",
+            "title": "Hanging Lamp Red",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 15 ,
+            "image":"images/product/f1310.jpg",
+            "hoverImage": "images/product/f1311.jpg",
+            "title": "Birch veneer Armchair",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 16 ,
+            "image":"images/product/f1210.jpg",
+            "hoverImage": "images/product/f1213.jpg",
+            "title": "Almo Sideboard",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 1 ,
+            "image":"images/product/f711.jpg",
+            "hoverImage": "images/product/f713.jpg",
+            "title": "Vasagle Comfortable Sofa",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 2 ,
+            "image":"images/product/f210.jpg",
+            "hoverImage": "images/product/f212.jpg",
+            "title": "Comfortable Sofa",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 3 ,
+            "image":"images/product/f310.jpg",
+            "hoverImage": "images/product/f311.jpg",
+            "title": "Vasagle Comfortable",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 4 ,
+            "image":"images/product/f410.jpg",
+            "hoverImage": "images/product/f411.jpg",
+            "title": "Vasagle Sofa",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 5 ,
+            "image":"images/product/f510.jpg",
+            "hoverImage": "images/product/f514.jpg",
+            "title": "Vasagle Comfortable Sofa",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 6 ,
+            "image":"images/product/f610.jpg",
+            "hoverImage": "images/product/f611.jpg",
+            "title": "Vasagle Sofa",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 7 ,
+            "image":"images/product/f110.jpg",
+            "hoverImage": "images/product/f111.jpg",
+            "title": "Vasagle Comfortable",
+            "oldPrice": "",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 8 ,
+            "image":"images/product/f810.jpg",
+            "hoverImage": "images/product/f811.jpg",
+            "title": "Comfortable Sofa",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 10 ,
+            "image":"images/product/f1010.jpg",
+            "hoverImage": "images/product/f1011.jpg",
+            "title": "Strandmon Wing Chair",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 11 ,
+            "image":"images/product/f1110.jpg",
+            "hoverImage": "images/product/f1111.jpg",
+            "title": "String System Drawer",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 12 ,
+            "image":"images/product/f1411.jpg",
+            "hoverImage": "images/product/f1412.jpg",
+            "title": "Saga bred byrå",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        },
+        {
+            "id": 13 ,
+            "image":"images/product/f1511.jpg",
+            "hoverImage": "images/product/f1512.jpg",
+            "title": "Pollock Executive Chair",
+            "oldPrice": "$ 58.47",
+            "newPrice": "$ 36.85"
+        }
+    ],
+    "ourBlogsData": [
+        {
+            "id":0 ,
+            "image": "images/blog/blog2.jpg",
+            "title": "So isn’t land signs greater void face replenish.",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        },
+        {
+            "id":1 ,
+            "image": "images/blog/blog3.jpg",
+            "title": "Sea good every which said first divided.",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        },
+        {
+            "id":2 ,
+            "image": "images/blog/blog4.jpg",
+            "title": "Morning let you created every day.",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        },
+        {
+            "id":3 ,
+            "image": "images/blog/blog5.jpg",
+            "title": "Third darkness and second dry second greater.",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        },
+        {
+            "id":4 ,
+            "image": "images/blog/blog7.jpg",
+            "title": "Heaven upon heaven moveth every have.",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        },
+        {
+            "id":6 ,
+            "image": "images/blog/blog8.jpg",
+            "title": "Created their subdue together.",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        },
+        {
+            "id":7 ,
+            "image": "images/blog/blog9.jpg",
+            "title": "5 Tips to Increase Your Online Sales",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        },
+        {
+            "id":8 ,
+            "image": "images/blog/blog11.jpg",
+            "title": "Given Set was without from god divide rule Hath",
+            "text": "Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every…"
+        }
+    ]
+}
