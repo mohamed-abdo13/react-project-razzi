@@ -1,0 +1,55 @@
+.limited-tow {
+    padding: 70px 0;
+  }
+  .image-content {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .image-content img,
+  .img-container img {
+    transition: all 0.4s ease-in-out;
+  }
+  .image-content:hover img,
+  .img-container:hover img {
+    transform: scale(1.1);
+  }
+  .image-box-text {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    width: 70%;
+    background-color: #fff;
+    padding: 25px;
+  }
+  .img-container {
+    padding: 25px 0 20px 0;
+    border: 1px solid #f5f5f5;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 2%);
+    cursor: pointer;
+    margin-bottom: 30px;
+  }
+  .image-img {
+    overflow: hidden;
+  }
+  .img-text {
+    padding: 10px 0;
+  }
+  @media (max-width: 1024px) and (min-width: 768px) {
+    .limited-tow .col-md-12 {
+      min-width: 100%;
+    }
+    .limited-tow .container {
+      min-width: 100%;
+    }
+    .image-content {
+      margin-bottom: 25px;
+    }
+  }
+  @media (max-width: 767px) {
+    .limited-tow .container {
+      min-width: 100%;
+    }
+  }
+  

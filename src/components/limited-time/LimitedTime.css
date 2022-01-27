@@ -1,0 +1,70 @@
+.time-section {
+    padding: 80px;
+    background-color: #fff;
+}
+.time-section h2 {
+    font-size: 35px;
+}
+.time-section p {
+    text-align: center;
+    color: #525252;
+    padding: 25px 20%;
+    font-size: 19px;
+}
+.time-section .slick-slide {
+    padding: 0 15px !important;
+}
+.time-section .carousel-item {
+    position: relative;
+    padding: 10px 0;
+}
+.carousel-content {
+    position: absolute;
+    bottom: -5%;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+    background-color: #fff;
+}
+.carousel-content h3 {
+    text-transform: capitalize;
+}
+.price-text span {
+    font-weight: 500;
+}
+span.old {
+    display: inline-block;
+    color: #a6a6a6;
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+span.new {
+    color: #FF6F61;
+}
+.time-section .slick-slider {
+    padding-bottom: 40px;
+}
+.time-section .slick-slider div {
+    padding: 5px 0; 
+    cursor: pointer;
+}
+.time-section .slick-slider button.slick-arrow {
+    display: none !important;
+}
+.time-section .slick-dots .slick-active button::before {
+    font-size: 10px;
+    color: #FF6F61;
+}
+@media (max-width:988px) {
+    .time-section{
+        padding: 80px 0;
+    }
+    .time-section p {
+        padding: 25px 0;
+        font-size: 17px;
+    }
+    .carousel-content h3 {
+        font-size: 15px;
+    }
+}
+

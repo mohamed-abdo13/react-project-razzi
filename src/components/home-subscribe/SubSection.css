@@ -1,0 +1,31 @@
+.sub-sec {
+    padding: 80px 0;
+    background-color: #fff;
+}
+.sub-sec h2 {
+    font-size: 30px;
+}
+.sub-sec p {
+    font-size: 18px;
+}
+.sub-sec input,
+.sub-sec button {
+    outline: none;
+    border: none;
+    padding: 15px 20px;
+    border-bottom: 1px solid #000;
+}
+.sub-sec input {
+    width: 40%;
+}
+.sub-sec button {
+    background-color: transparent;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+@media (max-width:769px) {
+    .sub-sec input {
+        width: 70%;
+    }
+}

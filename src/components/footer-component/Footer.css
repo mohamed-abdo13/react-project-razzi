@@ -1,0 +1,42 @@
+.footer {
+    padding: 70px 0;
+    background: #000;
+    color: #fff;
+}
+.footer a ,
+.footer h6 {
+    color: #fff;
+}
+.footer .footer-icons .link {
+    font-size: 18px;
+}
+.footer .footer-icons .link,
+.footer .footer-list li a,
+.footer .footer-list li.not-link {
+    opacity: .6;
+    transition: all .4s ease;
+}
+.footer .footer-icons .link:hover {
+    opacity: 1;
+}
+.footer .footer-list li a{
+    position: relative;
+    width: fit-content;
+}
+.footer .footer-list li a::after{
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1.5px;
+    background-color: #fff;
+    transition: all .4s ease-in-out;
+}
+.footer .footer-list li:hover a{
+    opacity: 1;
+}
+.footer .footer-list li:hover a::after{
+    width: 100%;
+    opacity: 1;
+}

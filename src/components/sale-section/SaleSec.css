@@ -1,0 +1,20 @@
+.sale-sec {
+    /* background: url("https://demo4.drfuri.com/razzi3/wp-content/uploads/sites/17/2020/12/home9-banner-1.jpg") no-repeat center center; */
+    height: 70vh;
+    position: relative;
+}
+.sale-sec-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+.sale-sec-content h2 {
+    font-size: 70px;
+}
+@media (max-width:600px) {
+    .sale-sec-content h2 {
+        font-size: 50px;
+    }
+}

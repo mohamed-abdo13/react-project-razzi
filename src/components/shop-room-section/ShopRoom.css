@@ -1,0 +1,31 @@
+.shop-room {
+    padding: 70px 0;
+    background-color: #F5F5F5;
+}
+.shop-room h2 {
+    text-transform: capitalize;
+    margin-bottom: 60px;
+}
+.shop-room .card {
+    cursor: inherit;
+}
+.shop-room .card .card-body {
+    padding: 35px 20px;
+}
+.shop-room .card .card-title {
+    font-size: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
+.shop-room .card .card-body ul a {
+    display: block;
+    margin-bottom: 10px;
+    color: #54595F;
+    text-transform: capitalize;
+}
+@media (max-width:769px) {
+    .shop-room .card .card-body {
+        text-align: center;
+    }
+}
